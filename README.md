@@ -25,4 +25,4 @@ This simulation includes the following elements and their interactions:
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
 ## Discord
-[kGD2qYJNSW](http://discord.gg/kGD2qYJNSW)
+[discord.ggkGD2qYJNSW](http://discord.gg/kGD2qYJNSW)
