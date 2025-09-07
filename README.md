@@ -1,8 +1,10 @@
-![SandBorx](https://github.com/user-attachments/assets/ef354ff4-03bb-4e28-8132-0c0afc788e1d)# SandBorx - A Falling Sand Simulation
+![SandBorx](https://github.com/user-attachments/assets/ef354ff4-03bb-4e28-8132-0c0afc788e1d)
+
+# SandBorx - A Falling Sand Simulation
 
 A classic "falling sand" particle simulation game developed using C# and MonoGame. This project was created to learn the fundamentals of MonoGame and to build a fun, interactive physics engine from scratch.
 
-![Gameplay GIF Will Go Here]([https://github.com/YourUsername/YourRepoName/blob/main/demo.gif?raw=true](https://jumpshare.com/s/RcoPpBvUMOyBxLejCatS))
+![Gameplay]([https://github.com/YourUsername/YourRepoName/blob/main/demo.gif?raw=true](https://jumpshare.com/s/RcoPpBvUMOyBxLejCatS))
 ## Features
 
 This simulation includes the following elements and their interactions:
