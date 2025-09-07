@@ -4,7 +4,7 @@
 
 A classic "falling sand" particle simulation game developed using C# and MonoGame. This project was created to learn the fundamentals of MonoGame and to build a fun, interactive physics engine from scratch.
 
-![Gameplay]([https://github.com/YourUsername/YourRepoName/blob/main/demo.gif?raw=true](https://jumpshare.com/s/RcoPpBvUMOyBxLejCatS))
+![]([https://github.com/YourUsername/YourRepoName/blob/main/demo.gif?raw=true](https://jumpshare.com/s/RcoPpBvUMOyBxLejCatS))
 ## Features
 
 This simulation includes the following elements and their interactions:
